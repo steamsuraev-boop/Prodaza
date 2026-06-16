@@ -1,5 +1,5 @@
 {
-  "project_name": "Legacy Russia",
+  "project_name": " Russia",
   "logo_url": "https://6942f009858f5.xvest5.ru/brilliant-cdn/logo.png",
   "background_url": "",
 
@@ -17,7 +17,7 @@
   "servers": [
     {
       "name": "test #1",
-      "ip": "80.242.59.112:",
+      "ip": "80.242.59.112",
       "port": 5229,
       "x2": false,
       "online": 0,
